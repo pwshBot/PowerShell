@@ -395,7 +395,7 @@
         "Type": "nuget",
         "Nuget": {
           "Name": "System.Data.SqlClient",
-          "Version": "4.9.0"
+          "Version": "4.9.1"
         }
       },
       "DevelopmentDependency": false
